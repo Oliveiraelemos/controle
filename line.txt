@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Linha 01 funcao abc
+=======
+Linha 01 asgyuagh
+>>>>>>> 6bd5228 (alteração line.txt rafaela)
